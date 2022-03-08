@@ -2,10 +2,10 @@
 
 | Checkbox | ID  | Name | Problems Count |
 |---|:---:|:---:|---|
-|<ul><li>- [X] Done</li></ul>|11|[Codeforces Rating < 1300](ladders/11.%20Codeforces%20Rating%20%3C%201300/README.md)|100|
-|<ul><li>- [X] Done</li></ul>|12|[1300 <= Codeforces Rating <= 1399](ladders/12.%201300%20%3C%3D%20Codeforces%20Rating%20%3C%3D%201399/README.md)|100|
-|<ul><li>- [X] Done</li></ul>|13|[1400 <= Codeforces Rating <= 1499](ladders/13.%201400%20%3C%3D%20Codeforces%20Rating%20%3C%3D%201499/README.md)|100|
-|<ul><li>- [X] Done</li></ul>|14|[1500 <= Codeforces Rating <= 1599](ladders/14.%201500%20%3C%3D%20Codeforces%20Rating%20%3C%3D%201599/README.md)|100|
+|<ul><li>- [ ] Done</li></ul>|11|[Codeforces Rating < 1300](ladders/11.%20Codeforces%20Rating%20%3C%201300/README.md)|100|
+|<ul><li>- [ ] Done</li></ul>|12|[1300 <= Codeforces Rating <= 1399](ladders/12.%201300%20%3C%3D%20Codeforces%20Rating%20%3C%3D%201399/README.md)|100|
+|<ul><li>- [ ] Done</li></ul>|13|[1400 <= Codeforces Rating <= 1499](ladders/13.%201400%20%3C%3D%20Codeforces%20Rating%20%3C%3D%201499/README.md)|100|
+|<ul><li>- [ ] Done</li></ul>|14|[1500 <= Codeforces Rating <= 1599](ladders/14.%201500%20%3C%3D%20Codeforces%20Rating%20%3C%3D%201599/README.md)|100|
 |<ul><li>- [ ] Done</li></ul>|15|[1600 <= Codeforces Rating <= 1699](ladders/15.%201600%20%3C%3D%20Codeforces%20Rating%20%3C%3D%201699/README.md)|100|
 |<ul><li>- [ ] Done</li></ul>|16|[1700 <= Codeforces Rating <= 1799](ladders/16.%201700%20%3C%3D%20Codeforces%20Rating%20%3C%3D%201799/README.md)|100|
 |<ul><li>- [ ] Done</li></ul>|17|[1800 <= Codeforces Rating <= 1899](ladders/17.%201800%20%3C%3D%20Codeforces%20Rating%20%3C%3D%201899/README.md)|100|
